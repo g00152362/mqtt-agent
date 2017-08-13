@@ -12,7 +12,7 @@ public class agent {
 		//	boolean quietMode 	= false;
 //			String topic 		= "";
 
-			int qos 			= 2;
+			int qos 			=1;
 			
 	// RELEASE
 			String inbroker 	= "tcp://127.0.0.1:1883";
